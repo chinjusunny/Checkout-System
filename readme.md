@@ -1,8 +1,5 @@
 # Checkout System
 
-
-Website using Codeigniter 3.1.11 and Bootstrap 3.3.7
-
 **Step 1: Shopping cart**
 
 You are building a checkout system for a shop which only sells apples and oranges.  
