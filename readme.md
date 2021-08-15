@@ -1,5 +1,6 @@
 # Checkout System
 
+
 Website using Codeigniter 3.1.11 and Bootstrap 3.3.7
 
 **Step 1: Shopping cart**
@@ -28,7 +29,9 @@ Update your checkout functions accordingly
 
 Project runs from index.php page : http://localhost:8888/checkout/
 ## Screenshots
-
+![CI_1](https://user-images.githubusercontent.com/1222804/129471049-12b7ec82-e0d0-4b59-ab99-6d28a31e496d.png)
+![CI_2](https://user-images.githubusercontent.com/1222804/129471052-23ef3c6b-c557-4393-bed5-fd5f268a1bea.png)
+![CI_3](https://user-images.githubusercontent.com/1222804/129471059-a6ee1ac8-0797-4084-a0e4-8f23249912e6.png)
 
 
 ## Testing
